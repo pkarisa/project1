@@ -4,6 +4,9 @@ h1{
     font-weight: 100;
 
 }
+h1 {
+    font-size: 40px;
+  }
 head{
     background-color: aqua;
     font-style: normal;
@@ -17,4 +20,10 @@ p{font-size: medium;
     font-size: 90%;
     font-weight: 100;
 
+}
+.center {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 250px;
 }
